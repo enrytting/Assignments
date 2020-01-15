@@ -1,2 +1,2 @@
 # Assignments
-Business 392 Assignments
+Python Assignments 
